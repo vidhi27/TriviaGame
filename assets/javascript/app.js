@@ -208,7 +208,7 @@ stop: function()
     if (timer.time == 0)
     {
         //Display correct answer if timer runs out and question is missed
-        $('#quizContent').show(); //show the correct gif div
+        $('#quizContent').show(); //show the correct img div
         $('#timerDisplay').hide();
         $('.btn').hide();
         $('#quizContent').html("<h2><p>Time's up! <br> The correct answer was: <br>" + QuestionsArray[indexQuestion].answer + "</p></h2>");

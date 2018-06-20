@@ -2,8 +2,7 @@ body{
   background-image: url('../images/mainimg.jpg');
   margin: 20px;
   padding: 50px;
-  background-size: 100%;
-  /* background-repeat: no-repeat; */
+  background-size: 100% ;
   text-align: center;
   font-family: sans-serif;
 }
