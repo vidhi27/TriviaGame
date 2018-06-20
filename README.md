@@ -10,4 +10,3 @@ If the player selects the wrong answer or runs out of time, they will be told ab
 
 On the final screen, the number of correct answers, incorrect answers, and an option to restart the game is shown (without reloading the page).
 
-![alt text](assets/images/triviagame.png "Screenshot of the Game")
