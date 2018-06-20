@@ -10,3 +10,5 @@ If the player selects the wrong answer or runs out of time, they will be told ab
 
 On the final screen, the number of correct answers, incorrect answers, and an option to restart the game is shown (without reloading the page).
 
+Click this link to play: https://vidhi27.github.io/TriviaGame/
+
