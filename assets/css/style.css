@@ -1,0 +1,73 @@
+body{
+  background-image: url('../images/mainimg.jpg');
+  margin: 20px;
+  padding: 50px;
+  background-size: 100%;
+  /* background-repeat: no-repeat; */
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.quizContainer{
+    background-image: url('../images/container.jpg');
+    /* display: block; */
+    border: 3px solid #262626;
+    border-radius: 8px;
+    padding: 20px 50px 20px 50px;
+    opacity: 0.9;
+}
+
+#startme{
+  border-radius: 50%;
+  font-size: 20px;
+  background-color: #660000;
+  color: white;
+  padding: 10px 20px 10px 20px;
+}
+
+.row{
+  margin-bottom: 10px;
+}
+
+#timerDisplay{
+font-family: 'Lalezar', cursive;;
+font-size: 30px;
+}
+
+h1{
+  font-family: 'Wellfleet', cursive;
+  font-size: 60px;
+  margin: 20px;
+  color: #660000;
+  font-weight: bolder;
+}
+
+p{
+  font-family: 'Wellfleet', cursive;
+  font-size: 35px;
+}
+
+#question{
+  margin: 20px;
+  font-family: 'New Rocker', cursive;
+  font-size: 50px;
+  color: #330000;
+}
+
+#scoreboard{
+  font-family: 'Lalezar', cursive;;
+  font-size: 30px;
+}
+
+  /* Large desktop
+
+@media (min-width: 1200px) { }
+ 
+/* Portrait tablet to landscape and desktop */
+/* @media (min-width: 768px) and (max-width: 979px) { } */
+ 
+/* Landscape phone to portrait tablet */
+/* @media (max-width: 767px) { } */
+ 
+/* Landscape phones and down */
+/* @media (max-width: 480px) { } */ */
