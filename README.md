@@ -12,3 +12,4 @@ On the final screen, the number of correct answers, incorrect answers, and an op
 
 Click this link to play: https://vidhi27.github.io/TriviaGame/
 
+![Trivia Game Screenshot][https://github.com/vidhi27/TriviaGame/blob/master/assets/images/triviagame.png]
