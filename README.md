@@ -1,7 +1,5 @@
 # TriviaGame
 
-Trivia game is created using JavaScript for the logic and jQuery to manipulate HTML
-
 This trivia game shows only one question until the player answers it or their time's up.
 
 If the player selects the correct answer, correct image for the answer will come up. After few seconds, the next question will be displayed--without user input
@@ -10,6 +8,5 @@ If the player selects the wrong answer or runs out of time, they will be told ab
 
 On the final screen, the number of correct answers, incorrect answers, and an option to restart the game is shown (without reloading the page).
 
-Click this link to play: https://vidhi27.github.io/TriviaGame/
 
 ![Trivia Game Screenshot](https://github.com/vidhi27/TriviaGame/blob/master/assets/images/triviagame.png)
